@@ -1,4 +1,4 @@
-require 'pry'
+quire 'pry'
 
 def prying_into_the_method
 	inside_the_method = "We're inside the method"
